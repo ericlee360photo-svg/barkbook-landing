@@ -125,15 +125,15 @@ export default function PrivacyPage() {
                 Our service integrates with third-party services:
               </p>
               <ul className="list-disc pl-6 text-gray-700 mb-4">
-                <li><strong>Stripe:</strong> Payment processing (subject to Stripe's privacy policy)</li>
-                <li><strong>Twilio:</strong> SMS communications (subject to Twilio's privacy policy)</li>
-                <li><strong>Supabase:</strong> Database and authentication (subject to Supabase's privacy policy)</li>
-                <li><strong>Cronofy:</strong> Calendar integration (subject to Cronofy's privacy policy)</li>
+                <li><strong>Stripe:</strong> Payment processing (subject to Stripe'sapos;s privacy policy)</li>
+                <li><strong>Twilio:</strong> SMS communications (subject to Twilio'sapos;s privacy policy)</li>
+                <li><strong>Supabase:</strong> Database and authentication (subject to Supabase'sapos;s privacy policy)</li>
+                <li><strong>Cronofy:</strong> Calendar integration (subject to Cronofy'sapos;s privacy policy)</li>
               </ul>
             </section>
 
             <section className="mb-8">
-              <h2 className="text-2xl font-semibold text-primary mb-4">9. Children's Privacy</h2>
+              <h2 className="text-2xl font-semibold text-primary mb-4">9. Children'sapos;s Privacy</h2>
               <p className="text-gray-700 mb-4">
                 Our service is not intended for children under 13. We do not knowingly collect personal information from children under 13.
               </p>

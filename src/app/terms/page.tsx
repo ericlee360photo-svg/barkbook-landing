@@ -30,7 +30,7 @@ export default function TermsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-primary mb-4">1. Acceptance of Terms</h2>
               <p className="text-gray-700 mb-4">
-                By accessing and using BarkBook ("the Service"), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.
+                By accessing and using BarkBook (("the Service")quot;the Service("the Service")quot;), you accept and agree to be bound by the terms and provision of this agreement. If you do not agree to abide by the above, please do not use this service.
               </p>
             </section>
 
@@ -51,7 +51,7 @@ export default function TermsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-semibold text-primary mb-4">4. Payment Terms</h2>
               <p className="text-gray-700 mb-4">
-                All payments are processed securely through Stripe. By using our payment services, you agree to Stripe's terms of service. Subscription fees are billed in advance on a monthly or annual basis.
+                All payments are processed securely through Stripe. By using our payment services, you agree to Stripe'sapos;s terms of service. Subscription fees are billed in advance on a monthly or annual basis.
               </p>
               <p className="text-gray-700 mb-4">
                 You authorize us to charge your payment method for all fees incurred. If payment fails, we may suspend or terminate your account.
@@ -78,7 +78,7 @@ export default function TermsPage() {
                 <li>Infringe on intellectual property rights</li>
                 <li>Transmit harmful, offensive, or inappropriate content</li>
                 <li>Attempt to gain unauthorized access to the Service</li>
-                <li>Interfere with the Service's operation</li>
+                <li>Interfere with the Service'sapos;s operation</li>
               </ul>
             </section>
 
