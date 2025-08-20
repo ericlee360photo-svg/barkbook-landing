@@ -57,7 +57,7 @@ export default function Home() {
             <img 
               src="/favicon.svg" 
               alt="BarkBook logo" 
-              className="w-24 h-24 md:w-32 md:h-32"
+              className="w-64 h-64 md:w-96 md:h-96"
             />
           </div>
           
@@ -118,7 +118,7 @@ export default function Home() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-gray-900 text-white py-8">
+      <footer className="bg-coral-600 text-white py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0 flex items-center">
@@ -129,7 +129,7 @@ export default function Home() {
               />
               <span className="text-xl font-bold text-white">BarkBook</span>
             </div>
-            <div className="flex flex-wrap justify-center gap-6 text-sm text-gray-400">
+            <div className="flex flex-wrap justify-center gap-6 text-sm text-coral-100">
               <Link href="/privacy" className="hover:text-white transition-colors">
                 Privacy Policy
               </Link>
@@ -141,7 +141,7 @@ export default function Home() {
               </Link>
             </div>
           </div>
-          <div className="border-t border-gray-800 mt-6 pt-6 text-center text-gray-400">
+          <div className="border-t border-coral-500 mt-6 pt-6 text-center text-coral-100">
             <p>&copy; {new Date().getFullYear()} BarkBook. All rights reserved.</p>
           </div>
         </div>
